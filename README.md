@@ -9,6 +9,11 @@ Software engineering is the process of designing,building,testing and maintainin
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+The Birth of Software Engineering which was first introduced at the 1968 NATO Software Engineering Conference in response  to the software crisis-a period when software development faced significant challenges in cost overruns,issed deadlines and poor quality.This milestone marked the beginning o structured software development methodolgies.
+
+The Rise of Object-Oriented Programming(1980s-1990s) revolutionised software development .Languages like C,C++ and Java introduced the concept of inheritance and encapsulation making software more reusable and maintainable.OOP became the foundation of modern  software development.
+
+The Agile Revolution (2001-Present) which transformed software engineering by promoting continuous improvement.It prioritized flexibility,iterative dvelopment,customer collaboration and rapid delivery.It was published in response to the limitations of waterfall methodologies.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -29,7 +34,9 @@ Agile methdology is iterative,prioritizing flexibility and adaptation to changin
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software developer- Designs,codes and tests individual components of a software application.Translates software requirements into a functional code.Debugs the software.Ensures the code meets user need
+
 Quality Assuarance Engineer-Ensures quality and reliability of the software.Develops and executes test plans.Indentifies and reports bugs in the software.Verifies that the software meets specified requirements.
+
 Project Manager-Responsible for overrall planning,execution and completion of software development project.Ensurres the project stays on track,within budget and meets the defined quality standards.Coordintes the efforts of the developer and QA engineer,resolving conflicts and ensuring effective collaboration.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -40,7 +47,13 @@ b)VCS are essential for managing changes to source code over time.They  allow de
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-1.The ever-evolving landscape of technology.The emergence of new programming languages,frameworks and tools is problematic to software engineers.
+1.CHALLENGE;The ever-evolving landscape of technology.The emergence of new programming languages,frameworks and tools is problematic to software engineers.   STRATEGY; Engaging in continuos learning   through online courses,conferences,coding communities and hands on projects.
+
+2.CHALLENGE;The pressure to deliver software quickly can  lead to rushed development and poor code quality.    STRATEGY; Implementing Agile methodology,automate testing and use of CD pipelines
+
+3.CHALLENGE; Software is a common target for cyber threats and vulnerabilities  can lead to loss of data.   STRATEGY; Follow secure coding practices,implement encryption and stay updated on security batches.
+
+4.CHALLENGE;Requirements can be ambiguous making it hard to maintain the project.    STRATEGY;Use Agile methodologies and maintain clear documentation.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
