@@ -11,6 +11,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1.Problem identification- involves defining,analyzing and understanding the problem the software being developed will solve
 2.Planning- involves defining the project goals,scope and requirements.This stage involves  gathering information on what the software should do.
 3.Desgning- This includes using specifications and coming up with the general outlook of the software and how it can best be used by a user.
@@ -20,19 +21,25 @@ List and briefly explain the phases of the Software Development Life Cycle.
 7.Maintenance- This involves addessing new problems that may come up,adding new features and debugging where necessary.This is the longest stage in SDLC.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall methodology follows a linear sequential process where each phase must be completed before the next begins.This emphasizes thorough plannig and minimizes changes during development.Its strength lies in its predictability and ease of management for projectts with well-defined,stable requirements. for example;building a large-scale infrastructure project eg a road where detailed plans and specifications are crucial.
+
 Agile methdology is iterative,prioritizing flexibility and adaptation to changing requirements.It involves short development cycles with frequent feedback and adjustment.The iterative nature allows for continuos improvement and adaptation to user needs.for example;making a system that would identify all employees in a company and their information.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software developer- Designs,codes and tests individual components of a software application.Translates software requirements into a functional code.Debugs the software.Ensures the code meets user need
 Quality Assuarance Engineer-Ensures quality and reliability of the software.Develops and executes test plans.Indentifies and reports bugs in the software.Verifies that the software meets specified requirements.
 Project Manager-Responsible for overrall planning,execution and completion of software development project.Ensurres the project stays on track,within budget and meets the defined quality standards.Coordintes the efforts of the developer and QA engineer,resolving conflicts and ensuring effective collaboration.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 a)IDEs provide a comprehensive suite of tools within a single application,streamlining  the coding process.Features such as code completion,debugging tools and intergrated compilers or interpreters drastically reduce development time and effort.Examples of IDEs are Eclipse for Java development,PyCharm for Python development 
+
 b)VCS are essential for managing changes to source code over time.They  allow developers to track modifications,revert to previous versions and collaborate effectively on projects.Can allow multiple developers  to work concurrently effectively  on the same codebase without overwriting each other's changes.Examples of VCS are Git,Mercurial and Subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1.The ever-evolving landscape of technology.The emergence of new programming languages,frameworks and tools is problematic to software engineers.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
